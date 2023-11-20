@@ -17,9 +17,6 @@ takes turns in these two roles:
 
 ## Practice
 
-> [puzzlecode.org](https://puzzlecode.org/),
-> [wiki guide](https://github.com/mikegagnon/puzzlecode/wiki/)
-
 [Exercism](https://exercism.org/tracks/javascript) is a great site for learning to pair
 program, the website has a lot of coding challenges to work with, ranging from beginner to advanced. 
 
