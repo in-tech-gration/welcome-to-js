@@ -49,7 +49,7 @@ different ways. Find the one that works for you:
 
 - [sololearn](https://www.sololearn.com/learning/1024): through Conditionals and
   Loops
-- [launchcode](https://education.launchcode.org/intro-to-professional-web-dev/index.html):
+- [launchcode](https://in-tech-gration.github.io/intro-to-professional-web-dev/index.html):
   chapters 1 -> 5
 - [javascript.express](https://www.javascript.express/): the chapters that cover
   Just Enough JavaScript
@@ -100,7 +100,7 @@ curious.
 
 ## Debugging Tools
 
-- [Errors & Debugging](https://education.launchcode.org/intro-to-professional-web-dev/chapters/errors-and-debugging/index.html)
+- [Errors & Debugging](https://in-tech-gration.github.io/intro-to-professional-web-dev/chapters/errors-and-debugging/index.html)
 - [Developer Console](https://javascript.info/devtools)
 - [Debugging in Chrome](https://javascript.info/debugging-chrome)
   - [definitive: 2021](https://dev.to/atapas/the-definitive-guide-to-javascript-debugging-2021-edition-116n)

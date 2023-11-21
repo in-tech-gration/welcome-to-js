@@ -19,7 +19,7 @@ Explore how Computers and Developers read the same code in different ways.
   - (study your favorites of all these)
   - [They're like boxes](https://www.youtube.com/watch?v=Jvrszgiexg0)
   - [JS Fundamentals - Variables](https://javascript.info/variables)
-  - [JS Variables](https://education.launchcode.org/intro-to-professional-web-dev/chapters/data-and-variables/variables.html)
+  - [JS Variables](https://in-tech-gration.github.io/intro-to-professional-web-dev/chapters/data-and-variables/variables.html)
   - [JavaScript Variables and Constants](https://www.programiz.com/javascript/variables-constants)
 
 ---
