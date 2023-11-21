@@ -1,7 +1,6 @@
 # Predicting Execution
 
-Studying JavaScript will be challenging. The HYF way of learning is not
-glamorous. You will need to learn how to study JS, and very importantly
+Studying JavaScript will be challenging. You will need to learn how to study JS, and very importantly
 
 - you will need to adjust your learning expectations
 
