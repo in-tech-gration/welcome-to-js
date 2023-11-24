@@ -1,3 +1,5 @@
+<!-- CAUTION: The study.json contains the 'stepped' option which does not trigger Prism highlighting -->
+
 # Naming Variables
 
 Your code should be written first for humans, and then for computers. One of the
