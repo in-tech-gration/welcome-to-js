@@ -8,6 +8,8 @@ the next chapters and study some code!
 
 Psst. This guide is best if you [open the README](./README.md?slides)
 
+There's also a [YouTube Video Guide](https://www.youtube.com/watch?v=5uCJBiQ7MkA) in case you haven't watched it yet.
+
 ---
 
 <a class="study-lens" href="./1-what-are-lenses.js" target="_blank">1. What are
