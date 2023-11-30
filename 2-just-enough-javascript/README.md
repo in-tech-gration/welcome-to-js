@@ -397,6 +397,8 @@ in order. But it's not always as easy as it sounds! Exercises will have extra
 lines as distraction, you'll need to figure out which lines are part of the
 program and which are there to confuse you.
 
+- [Video Guide](https://www.youtube.com/watch?v=8mRlMF96gLA)
+
 - [all of the learning, less of the time time](https://computinged.wordpress.com/2017/11/17/parsons-problems-have-same-learning-gains-as-writing-or-fixing-code-in-less-time-koli-calling-2017-preview)
 - [How to study programming](https://medium.com/swlh/how-to-study-computer-programming-parsons-problems-2bfdefabfd86)
 - [what are these?](https://georgejmount.com/parsons-problems/)
