@@ -148,3 +148,7 @@ and complete an important step in the program.
 The programs in this folder already have steps indicated by comments, but maybe
 you'd like to even break the steps into smaller steps. Or maybe you don't agree
 with the steps that are laid out by the comments!
+
+---
+
+[Video Guide](https://www.youtube.com/watch?v=7nCCQQFbMOM)
