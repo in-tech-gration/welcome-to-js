@@ -17,6 +17,17 @@ takes turns in these two roles:
 
 ## Practice
 
+[PuzzleCode](https://in-tech-gration.github.io/WDX-180/resources/javascript/puzzlecode/) is a great place for learning to pair
+program, the website has simple coding challenges with a minimal programming
+language that you can figure out in a minute. Because the language is simple and
+there is no setup required, you can get right into Pair Programming without
+getting caught up in details.
+
+After you've spent some time practicing both roles (_Navigator & Driver_) on
+PuzzleCode you will be ready for Pair Programming with JavaScript.
+
+<!-- TODO: [wiki guide](https://github.com/mikegagnon/puzzlecode/wiki/) -->
+
 To practice pair programming there are 4 small programs you can develop in
 pairs. You have already studied these programs in Just Enough JavaScript, so you
 should be able to focus on your pair programming role instead of how to solve

@@ -304,7 +304,7 @@ many rules and the rules aren't very complicated, you just need to learn them:
 
 - [javascript.info](https://javascript.info/variables#variable-naming)
 - [nexTRIE](https://www.youtube.com/watch?v=O5WlRR-lEDE)
-- [launchcode](https://education.launchcode.org/intro-to-web-dev-curriculum/data-and-variables/reading/more-on-variables/index.html#naming-variables)
+- [launchcode](https://in-tech-gration.github.io/intro-to-professional-web-dev/chapters/data-and-variables/more-on-variables.html#naming-variables)
 
 
 <details>
