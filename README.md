@@ -28,6 +28,7 @@ document, plan and develop programs that process a user's text input.
   learning to program.
 - [Lesson Plans](./lesson-plans): A few ideas for running lessons around this
   material.
+- [Printing Code (Video guide)](https://www.youtube.com/watch?v=bHhNbpj_NTY)
 
 ---
 
